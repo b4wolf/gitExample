@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss,bwolf7,Wolf,Brandon
 employee,plnguyen6,Leos,Nguyen
